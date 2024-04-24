@@ -17,7 +17,7 @@ def index():
 @app.route('/predict',methods=['POST'])
 def predict():
     file=request.files['file']
-    folder_path = r"Temporary Storage"
+    folder_path = "temporary"
     file_path = os.path.join(folder_path, file.filename)
     file.save(file_path) 
     testing=pd.read_csv(file_path)
