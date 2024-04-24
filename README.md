@@ -37,3 +37,5 @@ https://github.com/TNSGayathri/TNS_Gayathri_Girl_Hackathon_Ideathon_Round.git.
 9.Click on the predict button, where it gives information about the doctor's ID relative to symptoms.
 
 **Demo**
+
+https://drive.google.com/file/d/1lX6OaKwvpaj8-zYSZyYSQtL45yyn44fu/view?usp=sharing
