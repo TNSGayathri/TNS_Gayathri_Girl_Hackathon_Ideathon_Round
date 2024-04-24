@@ -38,4 +38,4 @@ https://github.com/TNSGayathri/TNS_Gayathri_Girl_Hackathon_Ideathon_Round.git.
 
 **Demo**
 
-https://drive.google.com/file/d/1lX6OaKwvpaj8-zYSZyYSQtL45yyn44fu/view?usp=sharing
+https://drive.google.com/file/d/1yOY7ta6aC-yHIzAP1RGFsHRNy3HpPyiq/view?usp=sharing
