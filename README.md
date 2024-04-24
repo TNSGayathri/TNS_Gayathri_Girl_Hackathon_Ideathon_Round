@@ -4,9 +4,9 @@
 
 **Solution** :To solve these challenges, I an creating a healthcare recommendation system.This system analyze user symptoms using synthetic data to recommend doctors with relavant specialities and timing availability.Ultimately,this system aims to improve health care system ,customized medical care,and provides decision making for individuals .
 
-**Symptoms predict AI Model** :
+**Predicting symptoms using AI Model** :
 
-For the doctor recommendation system, I opted for machine learning technology to train a machine learning model that takes the symptoms of a patient and, based on those symptoms, predicts the type of disease. Once we are able to know the disease, we can map patients with the doctors based on their availability. For this, I used a sample dataset that consisted of patient symptoms and the type of disease, and then I performed a couple of preprocessing steps to make sure the data was clean and ready to be processed. Then I used some ML algorithms like RandomForest, Naive Bayes, and logistic regression, all of which give 100 percent accuracy, so we can proceed with any of these 3 models.
+For the doctor recommendation system, I opted machine learning technology to train a machine learning model that predicts the symptoms of a patient and, based on those symptoms,it predicts the type of the disease. Once we get to know the disease, we can map the patients with the doctors based on their availability. For this, I used a sample dataset that has list of patients, their symptoms,the type of disease, and then I performed a couple of preprocessing steps to make sure that  the data was clean and ready to be processed. Eventually I used some ML algorithms like Random Forest, Naive Bayes, and Logistic Regression.The reason behind using the above ML algorithms is that, they give 100 percent accuracy.
 
 **Random Forest**: Random Forest is a classifier that contains a number of decision trees on various subsets of the given dataset and takes the average to improve the predictive accuracy of that dataset.
 
