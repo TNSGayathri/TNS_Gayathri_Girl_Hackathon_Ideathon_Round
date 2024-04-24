@@ -32,8 +32,8 @@ https://github.com/TNSGayathri/TNS_Gayathri_Girl_Hackathon_Ideathon_Round.git.
 
 7.Click on the link http://127.0.0.1:5000 shown in terminal.
 
-8.Click on choose file button and chhose the prediction.csv file from temporary folder.
+8.Click on choose file button and choose the prediction.csv file from temporary folder.
 
-9.Click on predict button it will shows the predicts the doctor's ID relavant to symptoms.
+9.Click on the predict button, where it gives information about the doctor's ID relative to symptoms.
 
 **Demo**
