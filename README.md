@@ -16,3 +16,24 @@ For the doctor recommendation system, I opted for machine learning technology to
 
 **Setup of local Environment**
 
+1.Fork this repo.
+
+2.Run the command git clone.
+
+https://github.com/TNSGayathri/TNS_Gayathri_Girl_Hackathon_Ideathon_Round.git.
+
+3.All the data used for training and testing the models (diseaseprediction) is in the folder temporary.
+
+4.First install the python packages with the version >3.7.
+
+5.Also install the Pandas,Flask,Pickle,Sklearn with the command pip install "package name".
+
+6.Run the app.py in visual studio.
+
+7.Click on the link http://127.0.0.1:5000 shown in terminal.
+
+8.Click on choose file button and chhose the prediction.csv file from temporary folder.
+
+9.Click on predict button it will shows the predicts the doctor's ID relavant to symptoms.
+
+**Demo**
